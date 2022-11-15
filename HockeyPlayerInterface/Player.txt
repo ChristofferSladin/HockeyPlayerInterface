@@ -1,0 +1,6 @@
+﻿1,21,Cico,Dinamo ZG
+2,13,Dread,Fc Barcelona
+3,41,Miso,Madrid
+4,74,Flippis,Hells Angels
+5,52,Lily,Hammarby
+6,4,Roni,AIK
